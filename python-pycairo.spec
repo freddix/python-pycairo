@@ -3,7 +3,7 @@
 Summary:	Python Cairo bindings
 Name:		python-pycairo
 Version:	1.10.0
-Release:	2
+Release:	3
 License:	LGPL v2.1 or MPL v1.1
 Group:		Libraries
 Source0:	http://cairographics.org/releases/%{pname}-%{version}.tar.bz2
